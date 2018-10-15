@@ -1,5 +1,5 @@
-url: ""
-baseurl: ""
+url: "www.kleemvfxstudio.com"
+baseurl: "/"
 
 # Site settings
 title: Kleem VFX Studio
@@ -64,3 +64,14 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
