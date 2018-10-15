@@ -1,5 +1,5 @@
-url: "www.kleemvfxstudio.com"
-baseurl: "/"
+url: "https://www.kleemvfxstudio.com"
+baseurl: ""
 
 # Site settings
 title: Kleem VFX Studio
@@ -75,3 +75,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - mail
+  - _posts
+  - 404.html
