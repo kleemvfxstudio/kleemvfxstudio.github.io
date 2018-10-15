@@ -1,0 +1,66 @@
+url: ""
+baseurl: ""
+
+# Site settings
+title: Kleem VFX Studio
+email: desireseed@gmail.com
+description: "TODO-Get is done from Richa"
+
+
+# Team names, titles and social links
+people:
+- name: Ashwin Kumar
+  pic: 1
+  position: Founder & Creative Director
+
+- name: Shilpa Dhawan
+  pic: 2
+  position: Founder & CFO
+  social:
+    - title: facebook
+      url: https://www.facebook.com/shilpa.dhawan
+
+- name: Samay Mahajan
+  pic: 3
+  position: Technology Head
+  social:
+    - title: twitter
+      url: https://twitter.com/samaymahajan
+    - title: facebook
+      url: https://www.facebook.com/samaymahajan
+    - title: linkedin
+      url: https://www.linkedin.com/in/samaymahajan/
+
+- name: Richa Arora
+  pic: 4
+  position: HR Head
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/kleemvfxstudio
+  - title: facebook
+    url: https://facebook.com/kleemvfxstudio
+  # - title: stack-overflow
+  #   url: https://stackoverflow.com/questions/tagged/kleemvfxstudio
+  # - title: bitbucket
+  #   url: http://bitbucket.org/kleemvfxstudio
+  - title: github
+    url: http://github.com/kleemvfxstudio
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Sector-27
+  - line: Faridabad, Haryana, 121008
+
+# Build settings
+markdown: kramdown
+permalink: pretty
