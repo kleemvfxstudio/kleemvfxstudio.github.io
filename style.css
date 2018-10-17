@@ -2,8 +2,14 @@
 layout: style
 ---
 
+.navbar-default {
+  background-color: black;
+  opacity: 0.9;
+}
+
 .navbar-brand {
   background-image: url('{{ site.baseurl }}/img/kleem-logo.png');
+  opacity: 1.0;
   background-size: contain;
   background-repeat: no-repeat;
   min-width: 100px;
