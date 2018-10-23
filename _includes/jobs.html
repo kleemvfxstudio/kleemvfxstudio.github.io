@@ -9,14 +9,13 @@
             </div>
             <div class="row">
             {% for job in site.jobs %}
-                <div class="col-md-4 col-sm-6 job-item">
+                <div class="col-md-6 col-sm-6 job-item">
                     <a href="#jobModal{{ job.job-id }}" class="job-link" data-toggle="modal">
                         <div class="job-hover">
                             <div class="job-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-briefcase fa-5x"></i>
                             </div>
                         </div>
-                        <img src="img/jobs/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="job-caption">
                         <h4>{{ job.title }}</h4>
