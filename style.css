@@ -230,3 +230,20 @@ a.control_next {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+
+.card .card-header .btn
+{
+    width:100%;
+    text-align: left;
+}
+
+.card-body
+{
+    text-align: justify;
+}
+
+.card-apply
+{
+    text-align: right;
+}
