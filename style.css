@@ -14,3 +14,236 @@ layout: style
   background-repeat: no-repeat;
   min-width: 100px;
 }
+.sliderContainer {
+  margin:0px;
+  width:auto;
+}
+
+#slider {
+  position: relative;
+  overflow: hidden;
+  weight:auto;
+  /* margin: px auto 0 auto; */
+  border-radius: 4px;
+}
+
+#slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  /* height: 200px; */
+  list-style: none;
+}
+
+#slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  /* width: 500px; */
+  /* height: 300px; */
+  background: #ccc;
+  text-align: center;
+  line-height: 300px;
+}
+
+a.control_prev, a.control_next {
+  position: absolute;
+  top: 40%;
+  z-index: 999;
+  display: block;
+  padding: 4% 3%;
+  width: auto;
+  height: auto;
+  background: #2a2a2a;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+a.control_prev:hover, a.control_next:hover {
+  opacity: 1;
+  -webkit-transition: all 0.2s ease;
+}
+
+a.control_prev {
+  border-radius: 0 2px 2px 0;
+}
+
+a.control_next {
+  right: 0;
+  border-radius: 2px 0 0 2px;
+}
+
+.slider_option {
+  position: relative;
+  margin: 10px auto;
+  width: 160px;
+  font-size: 18px;
+}
+
+#job .job-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+
+#job .job-item .job-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#job .job-item .job-link .job-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+}
+
+#job .job-item .job-link .job-hover:hover {
+    opacity: 1;
+}
+
+#job .job-item .job-link .job-hover .job-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#job .job-item .job-link .job-hover .job-hover-content i {
+    margin-top: -12px;
+}
+
+#job .job-item .job-link .job-hover .job-hover-content h3,
+#job .job-item .job-link .job-hover .job-hover-content h4 {
+    margin: 0;
+}
+
+#job .job-item .job-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#job .job-item .job-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+#job .job-item .job-caption p {
+    margin: 0;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+}
+
+#job * {
+    z-index: 2;
+}
+
+
+.jobs-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.jobs-modal .modal-content h2 {
+    margin-bottom: 15px;
+    font-size: 3em;
+}
+
+.jobs-modal .modal-content p {
+    margin-bottom: 30px;
+}
+
+.jobs-modal .modal-content p.item-intro {
+    margin: 20px 0 30px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+}
+
+.jobs-modal .modal-content ul.list-inline {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.jobs-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.jobs-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px; 
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.jobs-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.jobs-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #222;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.jobs-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #222;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+
+.card .card-header .btn
+{
+    width:100%;
+    text-align: left;
+}
+
+.card-body
+{
+    text-align: justify;
+}
+
+.card-apply
+{
+    text-align: right;
+}
