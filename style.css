@@ -163,6 +163,7 @@ a.control_next {
 {
     width:100%;
     text-align: left;
+    overflow: auto;
 }
 
 .card .card-header .btn:hover

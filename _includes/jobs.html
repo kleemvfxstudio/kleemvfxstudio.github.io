@@ -18,24 +18,62 @@
                           </button>
                         </h5>
                       </div>
-                  
+
                       <div id="id{{job.job-id}}" class="collapse col-lg-12" aria-labelledby="headingOne" data-parent="#accordion">
                         <div class="card-body">
-                            <div class="card-body-item">
-                                <b>Location :</b> Delhi NCR                                
+                          <div class="card-body-item">
+                              {% if job.experience %}
+                                <b>Experience:</b> {{ job.experience }}
+                              {% endif %}
+                          </div>
+                          <div class="card-body-item">
+                              {% if job.industry %}
+                                <b>Industry:</b> {{ job.industry }}
+                              {% endif %}
+                          </div>
+                          <div class="card-body-item">
+                              {% if job.qualification %}
+                                <b>Qualification:</b> {{ job.qualification }}
+                              {% endif %}
+                          </div>
+                          <div class="card-body-item">
+                              {% if job.function %}
+                                <b>Job Function:</b> {{ job.function }}
+                              {% endif %}
+                          </div>
+                          <div class="card-body-item">
+                              <b>Location:</b>
+                                {% if job.location %}
+                                  {{ job.location }}
+                                {% else %}
+                                  Faridabad, Delhi NCR
+                                {% endif %}
                             </div>
                             <div class="card-body-item">
-                                <b>No. of Positions :</b> {{job.no_of_positions}}
+                              <b>Type:</b>
+                                {% if job.type %}
+                                  {{ job.type }}
+                                {% else %}
+                                  Full Time
+                                {% endif %}
                             </div>
                             <div class="card-body-item">
-                                {{job.description}}
+                                {% if job.no_of_positions %}
+                                  <b>No. of Positions:</b> {{job.no_of_positions}}
+                                {% endif %}
+                            </div>
+                            <div class="card-body-item">
+                              {% if job.description %}
+                                <b>Roles and responsibilities: </b>
+                                  {{job.description}}
+                              {% endif %}
                             </div>
                         </div>
                         <div class="card-apply">
                             <a class="btn btn-primary" href="mailto:hr@kleemvfxstudio.com?subject=Application for JOBID:{{job.job-id}}&body=...Please attach your show/demo-reel link...">Apply for {{job.job-id}}</a>
                         </div>
                       </div>
-                    </div>            
+                    </div>
                     {% endfor %}
                 </div>
             </div>

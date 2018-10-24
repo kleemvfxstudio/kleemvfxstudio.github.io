@@ -63,26 +63,32 @@ address:
 
 # jobs
 jobs:
+  - job-id: KL-LNR-01
+    title: Lighting and Rendering Artist
+    function: Art/Creative/Design
+    location: Faridabad
+    experience: Fresher
+    industry: Media/Animation/Entertainment/Religious
+    qualification: College diploma or Equivalent in 3D computer graphics
+    type: Full Time
+    description: <ul><li>Light and Render CG Shots for production</li> <li>Pre-Comp shots</li> <li>Ensure shots meet render requirements</li> <li>Collaborate with departments concerned by lighting work</li> <li>Show reels featuring 'photo real' work would be preferred</li> <li>Understands fundamental lighting, but also have knowledge in how to adjust lighting</li> <li>Execute the corrections requested by the Lead by showing an analytic and proactive mind</li> <li>Maintain timing and production quotas given by the Leads</li> <li>Organize work and prepare presentation elements for approval</li> <li>Communicate and seek information, if necessary</li> <li>Maintain a good team dynamics</li> <li>Familiarity with pipeline issues</li></ul>
+  - job-id: KL-RNA-01
+    title: Rigging and Animation Artist
+    function: Art/Creative/Design
+    location: Faridabad
+    experience: Fresher
+    industry: Media/Animation/Entertainment/Religious
+    qualification: College diploma or equivalent in 3D computer graphics, Diploma, analyst-analytics
+    type: Full Time
+    description: <ul><li>Create final rigged assets</li> <li>Apply client notes to all assets</li> <li>Identify solutions and approaches to solve difficult assets</li> <li>Build and maintain animation rigs of varying complexity (creature rigs, props, hero and background assets, motion capture rigs, face rigs etc)</li> <li>Responsible for the integration of rigs into the show pipeline</li> <li>Drive creative 3D concepts with the rest of our team through good communication, planning, concepts/ sketches, etc.</li> <li>Complete high quality work, on time and to specification</li> <li>Breaking - down and quoting on complex VFX projects.</li> <li>Creating high quality rigs for visual effects for film</li> <li>Thorough understanding of traditional art skills (Form, architecture, topology, color theory, and UV mapping)</li> <li>Strong understanding of human anatomy</li> <li>Strong understanding of some animal anatomies (dogs, birds, etc) and a desire to learn more depending on the requirements of the project</li> <li>Experience in Blender, along with MEL / Python C++/PERL scripting (python preferred) is advantage.</li> <li>Understanding of the Blender rigging tool sets</li> <li>Experience with LINUX/UNIX</li> <li>Ability to come up with creative and efficient rendering solutions</li> <li>Ability to troubleshoot and deal with competing priorities</li> <li>Ability to take direction positively, work well within a diverse group, and thrive under the pressure of tight production deadlines</li> <li>Ability to adapt quickly to new technologies and applications</li> <li>Ability to complete quality control on individual work</li> <li>Excellent time management and communication skills</li> <li>A strong understanding of Animator requirements</li> <li>Eye for detail</li></ul>
   - job-id: KL-MNT-01
-    title: Modeling and Texture
-    expirence: Fresher to 4 Years
-    no_of_positions: 2
-    description: Modeling and Texturing, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - job-id: KL-ANI-01
-    title: Animation 1
-    expirence: 4+ Years
-    no_of_positions: 2
-    description: Animator1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - job-id: KL-ANI-02
-    title: Animation 2
-    expirence: 4+ Years
-    no_of_positions: 1
-    description: Animator2 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - job-id: KL-ANI-03
-    title: Animation 3
-    expirence: 4+ Years
-    no_of_positions: 1
-    description: Animator3 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    title: Modelling Texturing Sculpting Artist
+    function: Art/Creative/Design
+    location: Faridabad
+    experience: Fresher
+    industry: Media/Animation/Entertainment/Religious
+    qualification: Any 2- 5 years in character modelling, unwrapping, texturing and experience in stylized modelling, semi realistic modelling and props, texturing knowledge is a must.
+    description: <ul><li>Thorough knowledge of the principles of 3D/CGI and the 3D/CGI (animation, FX, modelling, texturing, lighting, scripting, shading, rendering, rigging)</li><li>Efficiency – the ability to produce work that is ‘detail orientated’, fit for task and for use by other departments downstream in the pipeline</li> <li>Strong attention to detail</li> <li>Understanding the concepts of topology, poly count, tisselation and edge looping</li> <li>Understanding how to layout the UVs of a model</li> <li>Understanding the use of bump and displacement maps in texturing work</li> <li>Knowledge of relevant software (see below)</li> <li>Ability to communicate with colleagues and work as part of a team </li> <li>Ability to take direction and willingness to address feedback</li> <li>Ability to manage priorities and bring multiple tasks to completion within a deadline. </li> <li>Enthusiasm to learn and develop professionally</li> <li>Adaptability </li> <li>Create textures for various art styles ranging from stylized to realistic (Illustrative preferred)</li> <li>Work non-destructively within Photoshop and Substance Painter </li> <li>Work closely with Art Director and rest of the team to provide hand- painted textures for 3D models, characters, environments, and props. Create and maintain an organized texture library. Work within constraints set by the technology (texture sizes, transparency limitations, etc.) Work within Blender to ensure UVs are set up and utilized correctly for 3D meshes. An excellent understanding of color theory and lighting, and an affinity for texturing characters and props as well as architectural and natural environment elements. Expert knowledge of Photoshop.Familiarity with Substance Painter. Excellent traditional painting skills. Able to collaborate and bring creativity to a team of artists. Be able to work quickly and efficiently under tight deadlines. General understanding and experience with basic 3D modelling within Blender. Strong working knowledge of polygonal texturing and UV layout.Plus Basic lighting experience, Full understanding of texture in relation to their shading and lighting qualities.</li></ul> <b>Key Skills - </b>Character modelling, unwrapping, texturing, stylized modeling, graphic designer, texturing, Substance Painter, photoshop, 3D models, painting, 3D modeling, Blender, animation, polygonal texturing, UV
 
 # Build settings
 markdown: kramdown
