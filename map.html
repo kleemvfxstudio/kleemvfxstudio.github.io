@@ -29,10 +29,11 @@
           center: location,
           zoom: 17
         });
-      var marker = new google.maps.Marker({
-        position: location,
-        title:"Kleem VFX Studio"
-      });
+        var marker = new google.maps.Marker({
+          position: location,
+          title:"Kleem VFX Studio"
+        });
+        marker.setMap(map);       
       }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYRLRd7-xWirtOiJHqpIKi73zLiNBVNU4&callback=initMap"
