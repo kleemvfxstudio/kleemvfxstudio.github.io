@@ -23,7 +23,7 @@
     <script>
       var map;
       var marker;
-      var location = {lat: 28.428472, lng: 77.308090};
+      var location = new google.maps.LatLng(28.428472,77.308090);
       function initMap() 
         map = new google.maps.Map(document.getElementById('map'), {
           center: location,
