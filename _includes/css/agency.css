@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-justify{
+    text-align: justify;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;

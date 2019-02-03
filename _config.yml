@@ -11,13 +11,14 @@ description: "To invoke the purity of true spirit & human emotions by fusing art
 people:
 - name: Ashwin Kumar
   pic: 1
-  position: Founder & Creative Director
+  position: Co-Founder & Creative Director
 
 - name: Shilpa Dhawan
   pic: 2
-  position: Founder & CFO
+  position: Co-Founder & CFO
   social:
     - title: facebook
+      fa-class: facebook-f
       url: https://www.facebook.com/shilpa.dhawan
 
 - name: Samay Mahajan
@@ -25,29 +26,24 @@ people:
   position: Technology Head
   social:
     - title: twitter
+      fa-class: twitter
       url: https://twitter.com/samaymahajan
     - title: facebook
+      fa-class: facebook-f
       url: https://www.facebook.com/samaymahajan
     - title: linkedin
+      fa-class: linkedin-in
       url: https://www.linkedin.com/in/samaymahajan/
 
 - name: Richa Arora
   pic: 4
   position: HR Head
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/kleemvfxstudio
-  - title: facebook
+  - title: facebook-f
     url: https://facebook.com/kleemvfxstudio
   # - title: stack-overflow
   #   url: https://stackoverflow.com/questions/tagged/kleemvfxstudio
@@ -98,33 +94,33 @@ jobs:
 markdown: kramdown
 permalink: pretty
 
-gallery:
-  dir: photos               # Path to the gallery
-  symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
-  title: "Photos Gallery"           # Title for gallery index page
-  title_prefix: "Photos: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
-  sort_field: "title"   # How to sort galleries on the index page.
-                            # Possible values are: title, date_time, best_image
-  thumbnail_size:
-    x: 400                  # max width of thumbnails (in pixels)
-    y: 400                  # max height of thumbnails (in pixels)
-  # The following options are for individual galleries.
-  galleries:
-    studio:
-      best_image: 1.JPG  # The image to show on the gallery index page. Defaults to the last image.
-      name: "Studio"
-      desc: "Our Studio's Gallery"
-    # japan_trip:
-    #   best_image: IMG_0690.JPG
-    #   name: "日本の旅"       # Defaults to directory name, replacing _ with spaces & capitalizing words.
-    # awesome_stuff:
-    #   best_image: snaileo_gonzales.jpg
-    #   sort_reverse: true    # Reverse sort images in gallery.
-    # secret_stuff:
-    #   hidden: true          # Don't show this gallery on the index page. People must guess the URL.
-    # with_info:
-    #   info:
-    #     desc: "Gallery Description" # Info fields can be used in custom templates.
+# gallery:
+#   dir: photos               # Path to the gallery
+#   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
+#   title: "Photos Gallery"           # Title for gallery index page
+#   title_prefix: "Photos: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
+#   sort_field: "title"   # How to sort galleries on the index page.
+#                             # Possible values are: title, date_time, best_image
+#   thumbnail_size:
+#     x: 400                  # max width of thumbnails (in pixels)
+#     y: 400                  # max height of thumbnails (in pixels)
+#   # The following options are for individual galleries.
+#   galleries:
+#     studio:
+#       best_image: 1.JPG  # The image to show on the gallery index page. Defaults to the last image.
+#       name: "Studio"
+#       desc: "Our Studio's Gallery"
+#     # japan_trip:
+#     #   best_image: IMG_0690.JPG
+#     #   name: "日本の旅"       # Defaults to directory name, replacing _ with spaces & capitalizing words.
+#     # awesome_stuff:
+#     #   best_image: snaileo_gonzales.jpg
+#     #   sort_reverse: true    # Reverse sort images in gallery.
+#     # secret_stuff:
+#     #   hidden: true          # Don't show this gallery on the index page. People must guess the URL.
+#     # with_info:
+#     #   info:
+#     #     desc: "Gallery Description" # Info fields can be used in custom templates.
 
 exclude:
   - Gemfile

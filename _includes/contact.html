@@ -2,13 +2,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Give us a shot</h2>
+                    <h2 class="section-heading">Give us a shout</h2>
                     <h3 class="section-subheading text-muted">Please fill out the quick form and we will be in touch with lightning speed.</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form name="sentMessage" id="contactForm" novalidate>
+                        <!-- <form enctype="text/plain" method="get" action="mailto:webdesign@aboutguide.com">
+                            Your First Name: <input type="text" name="first_name"><br>
+                            Your Last Name: <input type="text" name="last_name"><br>
+                            Comments: <textarea rows="5" cols="30" name="comments"></textarea>
+                            <input type="submit" value="Send">
+                            </form> -->
+                    <form name="sentMessage" id="contactForm" action="mailto:admin@desireseed.com" enctype="text/plain" method="get" novalidate>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
@@ -33,7 +39,7 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <button type="submit" class="btn btn-xl">Send Message</button>
+                                <input type="submit" class="btn btn-xl">Send Message</input>
                             </div>
                         </div>
                     </form>
