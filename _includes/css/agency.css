@@ -436,6 +436,12 @@ section h3.section-subheading {
     }
 }
 
+.about-us * {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
+    text-align: justify;
+}
+
 .timeline {
     position: relative;
     padding: 0;
@@ -654,6 +660,25 @@ section h3.section-subheading {
 
 .team-member p {
     margin-top: 0;
+}
+
+.team-member-bio {
+    text-align: justify;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:50px;
+    padding-top:10px;
+    padding-bottom:5px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #fed136;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #fed136;
+}
+.team-member-bio p {
+    text-align: justify;
+    
 }
 
 aside.clients img {

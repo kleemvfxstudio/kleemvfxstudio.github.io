@@ -6,38 +6,37 @@ title: Kleem VFX Studio
 email: desireseed@gmail.com
 description: "To invoke the purity of true spirit & human emotions by fusing artistic skills & state of the art technology creating impressionable experiences."
 
-
 # Team names, titles and social links
 people:
-- name: Ashwin Kumar
-  pic: 1
-  position: Co-Founder & Creative Director
+  - name: Ashwin Kumar
+    pic: 1
+    position: Co-Founder & Creative Director
+    bio: <p>Ashwin Kumar, a prominent and distinguished Creative Visualiser who's been working on the field for about two decades and applying his visionary approach to make a peerless contribution to contemporary cinema. His spectrum ranges from working in ads and films both main stream and independent & during the journey collecting many accolades and awards (his creative visualization & art direction for the film- Kshay which was released through PVR cinemas across the nation as a special view won six International Awards). Ashwin Kumar helms one of the preeminent VFX studio by the name of Kleem, a brand name which aptly describes a place where Creativity meets Divinity. The banner is in the process of foraying into the industry by producing an epic narrative of the evergreen & eternal story of victory of good over evil.</p><p>Ashwin's passion for cinema immediately draws your attention, making you realize that an ever beautiful world does not have to be limited to the celluloid as you carry a part of the film with you forever.</p><p>From an entrepreneur who is a film enthusiast to becoming a creative filmmaker with a panache for state-of-the-art cinema, Ashwin Kumar's journey has been as dramatic as his fast-paced animatic thrillers. He took a leap of faith, incorporating his entrepreneurial skills coupled with his passion for animation by establishing Kleem VFX Studio in partnership with Shilpa Dhawan,  spearheading the organization with her acute business acumen and exceptional organizational skills. He has passionately worked in the creative field of advertising, cinema, animation & visual effects.</p><p>He started his career by working with Eros international and Pixion studios. From developing creatives for brands such as McDonalds, Lenovo, Maruti, Tata AIG, Relco Tyres, Aditya Birla, Intelenet and many other national and international brands to working on Bollywood front. He has worked for major films such as Hari Puttar, Jane Tu ya Jane Na, No Smoking, Sunday and Drona. On the publishing front, he has had his digital paintings in "Curing the Beast" exhibition, created an album art cover for a music album released in the UK, developed concert art for Shankar, Ehsaan and Loy and several art work for the gadget and electronics magazine called AVMax. He also created an amazing VR short experiential film called Sakshaat Darshan. It gave the viewer an experience of meeting divinity in person. The film  was exhibited on Janmashtami at ISKCON Noida and was watched by thousands on a single day.
+  - name: Shilpa Dhawan
+    pic: 2
+    position: Co-Founder & CFO
+    social:
+      - title: facebook
+        fa-class: facebook-f
+        url: https://www.facebook.com/shilpa.dhawan
 
-- name: Shilpa Dhawan
-  pic: 2
-  position: Co-Founder & CFO
-  social:
-    - title: facebook
-      fa-class: facebook-f
-      url: https://www.facebook.com/shilpa.dhawan
+  - name: Samay Mahajan
+    pic: 3
+    position: Technology Head
+    social:
+      # - title: twitter
+      #   fa-class: twitter
+      #   url: https://twitter.com/samaymahajan
+      - title: facebook
+        fa-class: facebook-f
+        url: https://www.facebook.com/samaymahajan
+      - title: linkedin
+        fa-class: linkedin-in
+        url: https://www.linkedin.com/in/samaymahajan/
 
-- name: Samay Mahajan
-  pic: 3
-  position: Technology Head
-  social:
-    - title: twitter
-      fa-class: twitter
-      url: https://twitter.com/samaymahajan
-    - title: facebook
-      fa-class: facebook-f
-      url: https://www.facebook.com/samaymahajan
-    - title: linkedin
-      fa-class: linkedin-in
-      url: https://www.linkedin.com/in/samaymahajan/
-
-- name: Richa Arora
-  pic: 4
-  position: HR Head
+  - name: Richa Arora
+    pic: 4
+    position: HR Head
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -63,31 +62,31 @@ plugins:
 
 # jobs
 jobs:
-  - job-id: KL-LNR-01
-    title: Lighting and Rendering Artist
-    function: Art/Creative/Design
-    location: Faridabad
-    experience: Fresher
-    industry: Media/Animation/Entertainment/Religious
-    qualification: College diploma or Equivalent in 3D computer graphics
-    type: Full Time
-    description: <ul><li>Light and Render CG Shots for production</li> <li>Pre-Comp shots</li> <li>Ensure shots meet render requirements</li> <li>Collaborate with departments concerned by lighting work</li> <li>Show reels featuring 'photo real' work would be preferred</li> <li>Understands fundamental lighting, but also have knowledge in how to adjust lighting</li> <li>Execute the corrections requested by the Lead by showing an analytic and proactive mind</li> <li>Maintain timing and production quotas given by the Leads</li> <li>Organize work and prepare presentation elements for approval</li> <li>Communicate and seek information, if necessary</li> <li>Maintain a good team dynamics</li> <li>Familiarity with pipeline issues</li></ul>
-  - job-id: KL-RNA-01
-    title: Rigging and Animation Artist
-    function: Art/Creative/Design
-    location: Faridabad
-    experience: Fresher
-    industry: Media/Animation/Entertainment/Religious
-    qualification: College diploma or equivalent in 3D computer graphics, Diploma, analyst-analytics
-    type: Full Time
-    description: <ul><li>Create final rigged assets</li> <li>Apply client notes to all assets</li> <li>Identify solutions and approaches to solve difficult assets</li> <li>Build and maintain animation rigs of varying complexity (creature rigs, props, hero and background assets, motion capture rigs, face rigs etc)</li> <li>Responsible for the integration of rigs into the show pipeline</li> <li>Drive creative 3D concepts with the rest of our team through good communication, planning, concepts/ sketches, etc.</li> <li>Complete high quality work, on time and to specification</li> <li>Breaking - down and quoting on complex VFX projects.</li> <li>Creating high quality rigs for visual effects for film</li> <li>Thorough understanding of traditional art skills (Form, architecture, topology, color theory, and UV mapping)</li> <li>Strong understanding of human anatomy</li> <li>Strong understanding of some animal anatomies (dogs, birds, etc) and a desire to learn more depending on the requirements of the project</li> <li>Experience in Blender, along with MEL / Python C++/PERL scripting (python preferred) is advantage.</li> <li>Understanding of the Blender rigging tool sets</li> <li>Experience with LINUX/UNIX</li> <li>Ability to come up with creative and efficient rendering solutions</li> <li>Ability to troubleshoot and deal with competing priorities</li> <li>Ability to take direction positively, work well within a diverse group, and thrive under the pressure of tight production deadlines</li> <li>Ability to adapt quickly to new technologies and applications</li> <li>Ability to complete quality control on individual work</li> <li>Excellent time management and communication skills</li> <li>A strong understanding of Animator requirements</li> <li>Eye for detail</li></ul>
-  - job-id: KL-MNT-01
+  # - job-id: KL-LNR-01
+  #   title: Lighting and Rendering Artist
+  #   function: Art/Creative/Design
+  #   location: Faridabad
+  #   experience: Fresher
+  #   industry: Media/Animation/Entertainment/Religious
+  #   qualification: College diploma or Equivalent in 3D computer graphics
+  #   type: Full Time
+  #   description: <ul><li>Light and Render CG Shots for production</li> <li>Pre-Comp shots</li> <li>Ensure shots meet render requirements</li> <li>Collaborate with departments concerned by lighting work</li> <li>Show reels featuring 'photo real' work would be preferred</li> <li>Understands fundamental lighting, but also have knowledge in how to adjust lighting</li> <li>Execute the corrections requested by the Lead by showing an analytic and proactive mind</li> <li>Maintain timing and production quotas given by the Leads</li> <li>Organize work and prepare presentation elements for approval</li> <li>Communicate and seek information, if necessary</li> <li>Maintain a good team dynamics</li> <li>Familiarity with pipeline issues</li></ul>
+  # - job-id: KL-RNA-01
+  #   title: Rigging and Animation Artist
+  #   function: Art/Creative/Design
+  #   location: Faridabad
+  #   experience: Fresher
+  #   industry: Media/Animation/Entertainment/Religious
+  #   qualification: College diploma or equivalent in 3D computer graphics, Diploma, analyst-analytics
+  #   type: Full Time
+  #   description: <ul><li>Create final rigged assets</li> <li>Apply client notes to all assets</li> <li>Identify solutions and approaches to solve difficult assets</li> <li>Build and maintain animation rigs of varying complexity (creature rigs, props, hero and background assets, motion capture rigs, face rigs etc)</li> <li>Responsible for the integration of rigs into the show pipeline</li> <li>Drive creative 3D concepts with the rest of our team through good communication, planning, concepts/ sketches, etc.</li> <li>Complete high quality work, on time and to specification</li> <li>Breaking - down and quoting on complex VFX projects.</li> <li>Creating high quality rigs for visual effects for film</li> <li>Thorough understanding of traditional art skills (Form, architecture, topology, color theory, and UV mapping)</li> <li>Strong understanding of human anatomy</li> <li>Strong understanding of some animal anatomies (dogs, birds, etc) and a desire to learn more depending on the requirements of the project</li> <li>Experience in Blender, along with MEL / Python C++/PERL scripting (python preferred) is advantage.</li> <li>Understanding of the Blender rigging tool sets</li> <li>Experience with LINUX/UNIX</li> <li>Ability to come up with creative and efficient rendering solutions</li> <li>Ability to troubleshoot and deal with competing priorities</li> <li>Ability to take direction positively, work well within a diverse group, and thrive under the pressure of tight production deadlines</li> <li>Ability to adapt quickly to new technologies and applications</li> <li>Ability to complete quality control on individual work</li> <li>Excellent time management and communication skills</li> <li>A strong understanding of Animator requirements</li> <li>Eye for detail</li></ul>
+  - job-id: KL-MNT-02
     title: Modelling Texturing Sculpting Artist
     function: Art/Creative/Design
     location: Faridabad
-    experience: Fresher
+    experience: 2 - 4 Years
     industry: Media/Animation/Entertainment/Religious
-    qualification: Any 2- 5 years in character modelling, unwrapping, texturing and experience in stylized modelling, semi realistic modelling and props, texturing knowledge is a must.
+    qualification: Character Modelling, Unwrapping, Texturing and experience in stylized modelling, semi realistic modelling and props, texturing knowledge is a must.
     description: <ul><li>Thorough knowledge of the principles of 3D/CGI and the 3D/CGI (animation, FX, modelling, texturing, lighting, scripting, shading, rendering, rigging)</li><li>Efficiency – the ability to produce work that is ‘detail orientated’, fit for task and for use by other departments downstream in the pipeline</li> <li>Strong attention to detail</li> <li>Understanding the concepts of topology, poly count, tisselation and edge looping</li> <li>Understanding how to layout the UVs of a model</li> <li>Understanding the use of bump and displacement maps in texturing work</li> <li>Knowledge of relevant software (see below)</li> <li>Ability to communicate with colleagues and work as part of a team </li> <li>Ability to take direction and willingness to address feedback</li> <li>Ability to manage priorities and bring multiple tasks to completion within a deadline. </li> <li>Enthusiasm to learn and develop professionally</li> <li>Adaptability </li> <li>Create textures for various art styles ranging from stylized to realistic (Illustrative preferred)</li> <li>Work non-destructively within Photoshop and Substance Painter </li> <li>Work closely with Art Director and rest of the team to provide hand- painted textures for 3D models, characters, environments, and props. Create and maintain an organized texture library. Work within constraints set by the technology (texture sizes, transparency limitations, etc.) Work within Blender to ensure UVs are set up and utilized correctly for 3D meshes. An excellent understanding of color theory and lighting, and an affinity for texturing characters and props as well as architectural and natural environment elements. Expert knowledge of Photoshop.Familiarity with Substance Painter. Excellent traditional painting skills. Able to collaborate and bring creativity to a team of artists. Be able to work quickly and efficiently under tight deadlines. General understanding and experience with basic 3D modelling within Blender. Strong working knowledge of polygonal texturing and UV layout.Plus Basic lighting experience, Full understanding of texture in relation to their shading and lighting qualities.</li></ul> <b>Key Skills - </b>Character modelling, unwrapping, texturing, stylized modeling, graphic designer, texturing, Substance Painter, photoshop, 3D models, painting, 3D modeling, Blender, animation, polygonal texturing, UV
 
 # Build settings
