@@ -1,1 +1,0 @@
-desc "build static pages"
